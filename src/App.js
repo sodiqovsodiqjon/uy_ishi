@@ -4,10 +4,11 @@ import Login from "./Pages/Login";
 function App() {
   return (
    <div>
-    <Home />
     <Login />
+    <Home />
    </div>
   );
 }
+
 
 export default App;
