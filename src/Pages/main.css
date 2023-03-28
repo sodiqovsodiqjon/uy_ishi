@@ -1,0 +1,61 @@
+
+
+.hero2{
+    padding: 0 15px;
+}
+
+.rasimbir{
+    margin: 0 15px;
+   
+}
+
+
+.img-left{
+    margin-top: 34px;
+    margin-left: 78px; 
+}
+hr{
+    background-color: #9f9d9d;
+    height: 2px;
+    margin: 8px 0;
+}
+
+.home-btn{
+margin-left: 600px;
+}
+.com-img{
+    margin: 0 75px;
+}
+
+.com-image{
+    margin-top: 24px;
+    margin-left: 15px;
+}
+
+.hom-com-img{
+    width: 679px;
+    height: 453px;
+border-radius: 20px;
+margin-left: 1rem;
+
+}
+
+.line{
+    background-color: #9F9D9D;
+    width: 2px;
+    height:1200px;
+}
+
+.search{
+    width: 373px;
+height: 55px;
+border-radius: 31px;
+}
+
+.unversal-padding{
+    margin:20px 0;
+}
+
+.mar-top{
+    margin: 15px 0;
+}
